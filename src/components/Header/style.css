@@ -1,0 +1,8 @@
+.header {
+  grid-area: h;
+  padding: 24px;
+  background-color: rgb(238, 217, 189);
+  width: 100%;
+  height: fit-content;
+  max-height: 200px;
+}
